@@ -1,5 +1,4 @@
 .DS_STORE
-react
 scripts/flow/*/.flowconfig
 .flowconfig
 *~
